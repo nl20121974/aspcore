@@ -1,0 +1,35 @@
+﻿.ck.ck-editor__editable:not(.ck-editor__nested-editable).ck-focused {
+    box-shadow: none !important;
+}
+
+.ck-rounded-corners .ck.ck-editor__editable:not(.ck-editor__nested-editable), .ck.ck-editor__editable:not(.ck-editor__nested-editable).ck-rounded-corners {
+    border-radius: 0 !important;
+}
+
+.ck.ck-editor__editable p {
+    margin: 0;
+}
+
+.ck th, td {
+    font-size: 13px;
+}
+
+.ck table {
+    text-align: left;
+}
+
+.ck-content .table {
+    display: block;
+}
+
+    .ck-content .table table td, .ck-content .table table th {
+        min-width: 2em;
+        padding: 5px 10px;
+        border: none !important;
+    }
+
+    .ck-content .table table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        border: none !important;
+    }

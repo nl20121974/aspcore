@@ -1,0 +1,6 @@
+.vs/
+app_data/
+*.webinfo
+*.sln
+*.publishproj
+/Controllers

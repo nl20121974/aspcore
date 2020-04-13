@@ -1,0 +1,153 @@
+﻿.w3-input, .w3-select {
+    padding: 4px 6px;
+}
+
+.w3-select {
+    padding: 5px 6px;
+}
+
+.w3-table-hoverable tbody tr {
+    cursor: pointer;
+}
+
+.w3-card-4 > header {
+    font-weight: bold;
+}
+
+.w3-card-4 > header {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+    .w3-card-4 > header > p {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+.w3-card-4 > div > p {
+    margin-top: 5px;
+}
+
+.w3-main > .w3-row {
+    padding: 8px 16px;
+}
+
+.w3-row.w3-padding {
+    padding: 8px !important;
+}
+
+.w3-row > .w3-bar {
+    padding-top: 8px;
+}
+
+td .w3-check {
+    width: 16px;
+    height: 16px;
+    top: 2px;
+}
+
+table td .w3-btn, table td .w3-button {
+    padding: 2px 16px;
+    outline: none;
+}
+
+.w3-input, select, textarea, button, input {
+    outline: none;
+}
+
+    select.w3-input {
+        padding: 5px 8px
+    }
+
+.w3-dropdown-hover:first-child, .w3-dropdown-click:hover, .w3-dropdown-hover:hover:first-child {
+    background-color: transparent !important;
+}
+
+.w3-dropdown-click:first-child, .w3-dropdown-hover:hover {
+    background-color: transparent !important;
+}
+
+.w3-table thead th {
+    font-weight: bold;
+}
+
+
+table .w3-dropdown-content.w3-bar-block, .w3-card-4 .w3-dropdown-content.w3-bar-block {
+    top: 0;
+    right: 0;
+}
+
+.w3-dropdown-content .w3-bar-item:hover {
+    color: #000 !important;
+    background-color: #fff !important
+}
+
+
+.w3-table th, .w3-table td {
+    border-right: 1px solid #eee !important;
+}
+
+.w3-card-4 header .w3-button {
+    padding: 5px 16px;
+}
+
+.w3-button, .w3-btn {
+    font-weight: normal;
+}
+
+.w3-card-4 header {
+    padding: 0.01em 8px;
+}
+
+@media(max-width: 468px) {
+    .w3-bar-item.w3-left {
+        font-size: 15px !important;
+    }
+
+        .w3-bar-item.w3-left .w3-text-blue {
+            font-size: 12px !important;
+        }
+}
+
+header .w3-button {
+    padding: 1em 8px;
+}
+
+
+table th .w3-btn, table th .w3-button {
+    padding: 4px 16px;
+}
+
+.w3-row .w3-bar .w3-bar-item, .w3-row .w3-bar .w3-dropdown-hover {
+    margin-right: 3px !important
+}
+
+.w3-table tbody tr:hover, .w3-table-all tbody tr:hover {
+    cursor: pointer !important;
+}
+
+.w3-table-all {
+    border: none;
+}
+
+.w3-card-4 .w3-col {
+    padding: 0 !important
+}
+
+.w3-bold {
+    font-weight: bold;
+}
+
+.w3-logo {
+    height: 100px !important;
+    width: auto;
+}
+
+.w3-btn:focus {
+    background: #eee!important;
+    color:#333!important;
+}
+
+.w3-table-blank td, .w3-table-blank th {
+    border-right: none !important;
+}

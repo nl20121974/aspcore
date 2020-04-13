@@ -1,0 +1,91 @@
+﻿.w3-pointer {
+    cursor: pointer;
+}
+
+.w3-uppercase {
+    text-transform: uppercase;
+}
+
+.w3-separator {
+    margin-top: 0.5em;
+}
+
+.w3-nowrap {
+    white-space: nowrap;
+}
+
+.w3-wauto {
+    width: auto;
+}
+
+.w3-width-auto {
+    width: auto;
+}
+
+.w3-inline-block {
+    display: inline-block
+}
+
+.w3-padding-left {
+    padding-left: 16px;
+}
+
+.w3-uppercase option {
+    text-transform: capitalize;
+}
+
+.w3-25p {
+    width: 25% !important
+}
+
+.w3-wrapper .cke_wysiwyg_frame, .w3-wrapper .cke_contents, .w3-wrapper .cke_editable {
+    height: 600px !important;
+}
+
+.w3-row.w3-padding.w3-dashboard {
+    padding: 8px !important;
+    padding-top: 16px !important;
+}
+
+.w3-vertical-line {
+    border-right: 2px solid white;
+}
+
+.w3-bold {
+    font-weight: bold
+}
+
+.w3-light {
+    font-weight: normal
+}
+
+.w3-italic {
+    font-style: italic
+}
+
+.w3-cell-icon {
+    width: 30px !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+    text-align: center !important;
+}
+
+.w3-noborder td {
+    border: none !important
+}
+
+.w3-unstriped tr:nth-child(even) {
+    background-color: white;
+}
+
+.w3-unstriped tr:nth-child(odd) {
+    background-color: white;
+}
+
+select .input30 {
+    width: 50px !important
+}
+
+.w3-table-blank td, .w3-table-blank th {
+    border-right: none !important;
+}

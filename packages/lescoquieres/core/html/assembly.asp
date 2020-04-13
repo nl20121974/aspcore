@@ -1,0 +1,16 @@
+<!--#include virtual="/core/html/htmlanchorclass.asp"-->
+<!--#include virtual="/core/html/htmlcontentclass.asp"-->
+<!--#include virtual="/core/html/htmlantiforgerytokenclass.asp"-->
+<!--#include virtual="/core/html/htmlelementclass.asp"-->
+<!--#include virtual="/core/html/htmlhandlerclass.asp"-->
+<!--#include virtual="/core/html/htmlinputclass.asp"-->
+<!--#include virtual="/core/html/htmlpropertiesclass.asp"-->
+<!--#include virtual="/core/html/htmltableclass.asp"-->
+<!--#include virtual="/core/html/htmltableheaderclass.asp"-->
+<!--#include virtual="/core/html/htmltablefooterclass.asp"-->
+<!--#include virtual="/core/html/htmllistclass.asp"-->
+<!--#include virtual="/core/html/htmlchecklistclass.asp"-->
+<!--#include virtual="/core/html/htmlbuilderclass.asp"-->
+<!--#include virtual="/core/html/htmlcallerclass.asp"-->
+<!--#include virtual="/core/html/htmltextareaclass.asp"-->
+<% set html = new htmlhandlerclass %>

@@ -1,0 +1,92 @@
+﻿body.ckedition {
+    padding-bottom: 0;
+}
+
+body.ckedition, .ckedition span, .ckedition td, .ckedition th, .ckedition li {
+    font-size: 18px;
+}
+
+.ck-content .table table {
+    width: 100% !important
+}
+
+.ck-editor__editable {
+    min-height: 600px;
+    max-height: 600px;
+}
+
+.ckedition > h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    padding-left: 0px;
+    margin-bottom: 5px;
+}
+
+.ckedition h1, .ck-heading_heading1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.ckedition h2, .ck-heading_heading2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.ckedition h3, .ck-heading_heading3 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.ckedition p, .ck-heading_paragraph {
+    font-size: 18px !important;
+}
+
+/*.ckedition span, .ck-heading_span {
+    font-size: 18px !important;
+}*/
+
+.ckedition .text-small {
+    font-size: 13px
+}
+
+.ckedition .text-big {
+    font-size: 24px;
+}
+
+.ckedition table {
+    width: 100%;
+}
+
+.ckedition .image-style-align-right {
+    float: right;
+    margin-left: 16px;
+}
+
+.ckedition .image-style-align-left {
+    float: left;
+    margin-right: 16px;
+}
+
+.ckedition .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+
+.ckedition .pagebreak {
+    page-break-after: always !important;
+    display: block;
+    width: 100%;
+    border-top: 1px dashed red;
+}
+
+
+@media print {
+    .ckedition .pagebreak {
+        page-break-after: always !important;
+        border: none;
+    }
+}
+
+.w3-editor-void .ck.ck-toolbar{
+    display: none;
+}

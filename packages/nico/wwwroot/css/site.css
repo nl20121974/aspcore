@@ -1,0 +1,59 @@
+body {
+    font-size: 13px !important;
+}
+
+.w3-titlecase {
+    display: inline-block;
+}
+
+.w3-titlecase::first-letter, label::first-letter {
+    text-transform: uppercase;
+}
+
+.w3-title {
+    display:block
+}
+.w3-title span {
+    display:block
+}
+.w3-title span::first-letter {
+    text-transform: uppercase;
+}
+.w3-title::first-letter {
+    text-transform: uppercase;
+}
+
+th span::first-letter {
+    text-transform: uppercase;
+}
+
+@media (max-width:600px) {
+    .w3-main {
+        margin-top: 40px;
+    }
+}
+
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, body, input, select, textarea {
+    font-family: 'Roboto', 'Segoe UI' !important;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.w3-input, .w3-select {
+    padding: 4px 6px;
+}
+
+.w3-select {
+    padding: 5px 6px;
+}
+
+.w3-bold {
+    font-weight: bold;
+}
+
+.w3-uppercase {
+    text-transform: uppercase
+}
